@@ -1,3 +1,4 @@
+////Q.Given integer array nums sorted in non-decreasing order,remove the duplicates in-place such that each unique element apprears only once,the relatives order of the elements should be kept the same then return the number of unique elements in nums.
 //remove duplicates
 function removeDuplicates(arr) {
     let x = 0;
